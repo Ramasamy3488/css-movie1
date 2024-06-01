@@ -61,6 +61,7 @@ img{
 .bg {
     background-color: #1e044e;
     color: #fff;
+    width: 100%;
 }
 .bg h2 {
     color: #fff;
