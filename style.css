@@ -3,6 +3,7 @@ body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;    
+    width: 100%;
     height: 100%;
 }
 
@@ -60,7 +61,7 @@ img{
 .bg {
     background-color: #1e044e;
     color: #fff;
-    max-width: 100%;
+    min-width: 100%;
 }
 .bg h2 {
     color: #fff;
